@@ -1,6 +1,6 @@
 
 # Illustrioba Restaurant Website
-<a href="https://illustrioba-restaurant-web.vercel.app/" style="font-weight:bolder; text-decoration: none; color: orange;"> View Website</a> <br>
+<a href="https://illustrioba-restaurant-web.vercel.app/" target="_blank" style="font-weight:bolder; text-decoration: none; color: orange;"> View Website</a> <br>
 A modern, responsive restaurant website template built with Bootstrap 5. This template provides a complete solution for restaurants looking to establish their online presence.
 
 ## Features
